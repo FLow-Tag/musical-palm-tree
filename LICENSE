@@ -1,0 +1,6 @@
+echo "# musical-palm-tree" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/FLow-Tag/musical-palm-tree.git
+git push -u origin master
